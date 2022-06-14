@@ -1,0 +1,21 @@
+%% cmdline: /home/m206265/.local/bin/lalapps_ComputeFstatistic_v2 --Alpha=1.45968 --Delta=0.38422 --Freq=60.00099989175556 --f1dot=-3.776338672568383e-10 --f2dot=-6.810555502814722e-20 --FreqBand=2.265099252281121e-07 --f1dotBand=1.895725439183986e-13 --f2dotBand=1.551238705029846e-19 --dFreq=1.132549626140561e-08 --df1dot=9.478627195919931e-15 --df2dot=7.756193525149231e-21 --DataFiles="/home/m206265/lalapps_work/SFTinj/*.sft" --assumeSqrtSX="0.00751" --refTime=1171754150 --outputFstat="/home/m206265/lalapps_work/mismatchNewGrid/SNR_GridLoud_mism01_100.txt" --NumCandidatesToKeep=1 --FstatMethod=DemodSSE --outputTiming="/home/m206265/lalapps_work/mismatchNewGrid/Timing_SNR_GridLoud_mism01.txt"
+%% LAL: 7.1.5 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALFrame: 1.6.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALMetaIO: 2.1.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALSimulation: 3.1.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALBurst: 1.5.10 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALInspiral: 2.0.4 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALPulsar: 3.1.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALInference: 3.0.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALApps: 7.4.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% FstatMethod used: 'DemodSSE'
+%% Started search: 2022-03-14 20:34:30.7073
+%% Loaded SFTs: [ H1:2159, L1:1948 ]
+%% GPS starttime         = 1167983370 (Mon Jan  9 07:49:12 2017 GMT)
+%% Total time spanned    = 5631588 s (1564.33 hours)
+%% Pulsar-params refTime = 1171754150
+%% Spin-range at refTime: fkdot = [ 60.00099989175556:60.00100011826549, -3.776338672568383e-10:-3.774442947129199e-10, -6.810555502814722e-20:8.701831547483741e-20, 0:0, 0:0, 0:0, 0:0 ]
+%% columns:
+%% freq alpha delta f1dot f2dot f3dot 2F
+60.00099999368503 1.45968 0.38422 -3.775296023576834e-10 1.721257374849433e-20 0 77.4767532
+%DONE

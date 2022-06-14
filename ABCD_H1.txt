@@ -1,0 +1,30 @@
+%% LAL: 7.1.5 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALFrame: 1.6.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALMetaIO: 2.1.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALSimulation: 3.1.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALBurst: 1.5.10 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALInspiral: 2.0.4 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALPulsar: 3.1.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALInference: 3.0.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALApps: 7.4.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% argv[0]: '/home/m206265/.local/bin/lalapps_ComputeAntennaPattern'
+%% argv[1]: '-a'
+%% argv[2]: '1.45968'
+%% argv[3]: '-d'
+%% argv[4]: '0.38422'
+%% argv[5]: '--ephemSun=/home/m206265/lalapps_work/data/sun00-19-DE405.dat'
+%% argv[6]: '--ephemEarth=/home/m206265/lalapps_work/data/earth00-19-DE405.dat'
+%% argv[7]: '-I'
+%% argv[8]: 'H1'
+%% argv[9]: '-T'
+%% argv[10]: '/home/m206265/lalapps_work/data/O2_1_H1_tslist.txt'
+%% argv[11]: '--Tsft=1800'
+%% argv[12]: '--noiseSqrtShX=0.00751'
+%% argv[13]: '-o'
+%% argv[14]: 'AntPatt_H1.txt'
+%% argv[15]: '-O'
+%% argv[16]: 'ABCD_H1.txt'
+%% columns:
+%% Alpha   Delta        A_H1         B_H1         C_H1         D_H1
+1.4596800  0.3842200   0.12498040   0.23435326  -0.00170168   0.02928667
+

@@ -1,0 +1,12 @@
+%% cmdline: /home/m206265/.local/bin/lalapps_ComputeFstatistic_v2 --Alpha=1.45968 --Delta=0.38422 --Freq=60.001 --f1dot=-3.77535e-10 --f2dot=1.1147e-20 --FreqBand=1.074430914532903e-07 --f1dotBand=8.992215309216615e-14 --f2dotBand=7.358171253756612e-20 --dFreq=2.774168692424226e-08 --df1dot=2.321780009207155e-14 --df2dot=1.899871648289434e-20 --DataFiles="/home/m206265/lalapps_work/SFTinj/*.sft" --assumeSqrtSX="0.00751" --refTime=1171754150 --outputFstat="SNR_offsets.txt" --FstatMethod=DemodSSE --outputTiming="Timing_SNR_offsets.txt"
+%% LAL: 7.1.5 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALFrame: 1.6.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALMetaIO: 2.1.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALSimulation: 3.1.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALBurst: 1.5.10 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALInspiral: 2.0.4 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALPulsar: 3.1.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALInference: 3.0.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% LALApps: 7.4.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
+%% NSFTs      NFreq    tauF[s] tauFEff[s]   tauF0[s] FstatMethod     tauMin     tauMax     NStart       NTau tauTransFstatMap tauTransMarg
+    4107          4    9.8e-04    9.8e-04    2.4e-07   DemodSSE          0          0          0          0          0.0e+00      0.0e+00
