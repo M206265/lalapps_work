@@ -9,7 +9,7 @@
 %% LALInference: 3.0.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
 %% LALApps: 7.4.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
 %% FstatMethod used: 'DemodSSE'
-%% Started search: 2022-02-04 01:03:01.8708
+%% Started search: 2022-11-04 21:49:17.0117
 %% Loaded SFTs: [ H1:2159, L1:1948 ]
 %% GPS starttime         = 1167983370 (Mon Jan  9 07:49:12 2017 GMT)
 %% Total time spanned    = 5631588 s (1564.33 hours)
@@ -17,5 +17,5 @@
 %% Spin-range at refTime: fkdot = [ 60.001:60.001, -3.77535e-10:-3.77535e-10, 1.1147e-20:1.1147e-20, 0:0, 0:0, 0:0, 0:0 ]
 %% columns:
 %% freq alpha delta f1dot f2dot f3dot 2F
-60.001 1.45968 0.38422 -3.77535e-10 1.1147e-20 0 77.6368713
+60.001 1.45968 0.38422 -3.77535e-10 1.1147e-20 0 97.1010361
 %DONE

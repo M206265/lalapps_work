@@ -1,4 +1,4 @@
-%% cmdline: /home/m206265/.local/bin/lalapps_ComputeFstatistic_v2 --Alpha=1.45968 --Delta=0.38422 --Freq=60.00099973062623 --f1dot=-3.777700458239188e-10 --f2dot=-1.731019701903836e-19 --FreqBand=5.548337384848451e-07 --f1dotBand=4.64356001841431e-13 --f2dotBand=3.799743296578868e-19 --dFreq=2.774168692424226e-08 --df1dot=2.321780009207155e-14 --df2dot=1.899871648289434e-20 --DataFiles="/home/m206265/lalapps_work/SFTinjnoise/*.sft" --refTime=1171754150 --outputFstat="/home/m206265/lalapps_work/mismatchNewGrid_Noise/SNR_GridLoud_mism06_19.txt" --NumCandidatesToKeep=1 --FstatMethod=DemodSSE --outputTiming="/home/m206265/lalapps_work/mismatchNewGrid_Noise/Timing_SNR_GridLoud_mism06.txt"
+%% cmdline: /home/m206265/.local/bin/lalapps_ComputeFstatistic_v2 --Alpha=1.45968 --Delta=0.38422 --Freq=59.89384572822177 --f1dot=-3.777596332721849e-10 --f2dot=-1.700292625710645e-19 --FreqBand=5.548337384848451e-07 --f1dotBand=4.64356001841431e-13 --f2dotBand=3.799743296578868e-19 --dFreq=2.774168692424226e-08 --df1dot=2.321780009207155e-14 --df2dot=1.899871648289434e-20 --DataFiles="/home/m206265/lalapps_work/SFTinjnoise/*.sft" --refTime=1171754150 --outputFstat="/home/m206265/lalapps_work/mismatchNewGrid_Noise/SNR_GridLoud_mism06_19.txt" --NumCandidatesToKeep=1 --FstatMethod=DemodSSE --outputTiming="/home/m206265/lalapps_work/mismatchNewGrid_Noise/Timing_SNR_GridLoud_mism06.txt"
 %% LAL: 7.1.5 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
 %% LALFrame: 1.6.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
 %% LALMetaIO: 2.1.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
@@ -9,13 +9,13 @@
 %% LALInference: 3.0.1 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
 %% LALApps: 7.4.0 (UNCLEAN 53aa4afe025550f99f1042f83420085e09e6a5fc)
 %% FstatMethod used: 'DemodSSE'
-%% Started search: 2022-04-15 16:57:30.0257
+%% Started search: 2022-11-04 17:13:56.5944
 %% Loaded SFTs: [ H1:2159, L1:1948 ]
 %% GPS starttime         = 1167983370 (Mon Jan  9 07:49:12 2017 GMT)
 %% Total time spanned    = 5631588 s (1564.33 hours)
 %% Pulsar-params refTime = 1171754150
-%% Spin-range at refTime: fkdot = [ 60.00099973062623:60.00100028545997, -3.777700458239188e-10:-3.773056898220774e-10, -1.731019701903836e-19:2.068723594675032e-19, 0:0, 0:0, 0:0, 0:0 ]
+%% Spin-range at refTime: fkdot = [ 59.89384572822177:59.89384628305551, -3.777596332721849e-10:-3.772952772703435e-10, -1.700292625710645e-19:2.099450670868223e-19, 0:0, 0:0, 0:0, 0:0 ]
 %% columns:
 %% freq alpha delta f1dot f2dot f3dot 2F
-60.00100003578476 1.45968 0.38422 -3.775378678229982e-10 1.688519463855979e-20 0 95.2131348
+59.89384597789693 1.45968 0.38422 -3.775506730713564e-10 1.99579022578789e-20 0 71.9411621
 %DONE
